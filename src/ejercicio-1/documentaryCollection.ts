@@ -1,5 +1,5 @@
-import { Documentary, StreamableDocumentaries } from "./interfaces";
-import { BasicStreamableCollection } from "./basicStreamableCollection";
+import { Documentary, StreamableDocumentaries } from "./interfaces.js";
+import { BasicStreamableCollection } from "./basicStreamableCollection.js";
 
 /**
  * Clase DocumentaryCollection que implementa la interfaz StreamableDocumentaries y hereda de BasicStreamableCollection.

@@ -1,5 +1,5 @@
-import { Movie, StreamableMovies } from "./interfaces";
-import { BasicStreamableCollection } from "./basicStreamableCollection";
+import { Movie, StreamableMovies } from "./interfaces.js";
+import { BasicStreamableCollection } from "./basicStreamableCollection.js";
 
 /**
  * Clase MovieCollection que implementa la interfaz StreamableMovies y hereda de BasicStreamableCollection.

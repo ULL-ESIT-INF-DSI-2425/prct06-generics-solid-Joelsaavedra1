@@ -1,4 +1,4 @@
-import { StreamableSearch, StreamableModify } from "./interfaces";
+import { StreamableSearch, StreamableModify } from "./interfaces.js";
 
 /**
  * Clase abstracta que implementa la interfaz Streamable y define el comportamiento de las colecciones de elementos streamables(series, películas o documentales).

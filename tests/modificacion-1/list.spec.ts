@@ -1,5 +1,5 @@
 import { describe, expect, test } from "vitest";
-import { MyList } from "../../src/modificacion-1/list";
+import { MyList } from "../../src/modificacion-p6/list";
 
 const liststring1 = new MyList(["a", "b", "c"]);
 const liststring2 = new MyList(["d", "e", "f"]);

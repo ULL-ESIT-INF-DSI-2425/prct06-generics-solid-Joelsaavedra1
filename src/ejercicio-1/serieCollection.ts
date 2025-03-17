@@ -1,5 +1,5 @@
-import { Serie, StreamableSeries } from "./interfaces";
-import { BasicStreamableCollection } from "./basicStreamableCollection";
+import { Serie, StreamableSeries } from "./interfaces.js";
+import { BasicStreamableCollection } from "./basicStreamableCollection.js";
 
 /**
  * Clase SerieCollection que implementa la interfaz StreamableSeries y hereda de BasicStreamableCollection.
